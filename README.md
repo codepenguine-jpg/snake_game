@@ -4,7 +4,7 @@ This repo contain a simple but beatiful snake game. I used ncurses to create a n
 # BASIC COMMANDS OF ncurses.h
 To learn some amazing commands of ncures look ncursestutor.cpp file.
 
-#COMPILE
+# COMPILE
 
     g++ game.cpp -0 game -lncurses
 
